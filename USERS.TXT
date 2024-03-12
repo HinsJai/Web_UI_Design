@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "customer",
+    "email": "customer01@gmail.com",
+    "password": "Rr123456"
+  },
+  {
+    "id": 2,
+    "type": "restaurant",
+    "email": "yummyRestaurant@gmail.com",
+    "password": "Bb123456"
+  },
+  {
+    "id": 3,
+    "type": "deliveryPersonnel",
+    "email": "deliveryPersonnel@gmail.com",
+    "password": "Cc123456"
+  }
+]
