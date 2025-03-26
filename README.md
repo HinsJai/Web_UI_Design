@@ -53,7 +53,7 @@
 
 ## 🧱 Tech Stack
 - **Frontend**: React.js, Material UI
-- **Backend**: Node.js / Express / Firebase (depending on branch)
+- **Backend**: Firebase 
 - **Other Tools**: Google Maps API, responsive CSS Grid
 
 ## 🖼️ UI Showcase - Partial
