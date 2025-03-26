@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+## 🧭 Features Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 👤 Customers
+- Browse and search restaurants and menu items
+- Place orders with real-time progress tracking
+- Review order history and give feedback
+- Responsive UI for both desktop and mobile
 
-## Available Scripts
+### 🏪 Restaurant Staff
+- Login and manage menus (CRUD for food items)
+- Track and process customer orders
+- Communicate with delivery personnel
+- Dashboard for insights and order analytics
 
-In the project directory, you can run:
+### 🛵 Delivery Personnel
+- View available and assigned orders
+- Receive route and delivery details
+- Communicate with restaurant or customer
+- Track completed jobs and earnings
 
-### `yarn start`
+## 🧑‍💻 UI/UX Highlights
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ✅ Human-Computer Interaction (HCI) Design Principles
+- **User-friendly Interface**: Clean menu bar, clear feedback, tooltips, consistency
+- **Error Tolerance**: Validation & real-time alerts on form errors
+- **Progressive Disclosure**: Show advanced options only when necessary
+- **Accessibility**: High contrast colors, larger font sizes, responsive layout
+- **Cultural & Physical Differences**: Supports varied age, language, and motor abilities
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🔍 Navigation & Visuals
+- Intuitive icons based on common mental models (🛒 checkout, 📝 edit, 🗑️ delete)
+- Hierarchical structure with vertical navigation
+- Google Maps integration for route display
+- Auto-complete in search for food or delivery routes
 
-### `yarn test`
+## 📌 Tasks & User Flows (HTA)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1. Order Food
+- Login / Register
+- Search/select restaurant
+- Add food to cart → Checkout → Pay → Receive delivery
 
-### `yarn build`
+### 2. Sell Food
+- Login → Create restaurant & food items → Save
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3. Deliver Orders
+- Login → Accept order → Read route → Deliver → Complete
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📊 User Research & Testing
+- Think-Aloud and Talk-After testing with user scenarios
+- Role-playing sessions to simulate real usage
+- Online surveys with feedback for UX refinement
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🧱 Tech Stack
+- **Frontend**: React.js, Material UI
+- **Backend**: Node.js / Express / Firebase (depending on branch)
+- **Other Tools**: Google Maps API, responsive CSS Grid
 
-### `yarn eject`
+## 📷 Screenshots / UI Mockups
+> 
+## 📚 References
+- [How COVID-19 Popularized Food Delivery in HK](https://www.eats365pos.com/hk/en/blog/post/how-covid-19-popularized-food-delivery-in-hong-kong-263)
+- [Material UI Docs](https://mui.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
