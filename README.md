@@ -60,22 +60,17 @@
 
 Here are some screenshots demonstrating the Yummy Restaurant System's interfaces:
 
-### 🔍 Home Page & Menu Browsing
+###  Login page
 <img src="src/img/login.jpeg" alt="Login" width="600"/>
 
-### 🍱 Food Item & Customization
-<img src="assets/images/food_item_popup.png" alt="Food Item Details Popup" width="600"/>
+###  Food Item
+<img src="src/img/menu.jpeg" alt="Menu" width="600"/>
 
-### 🛒 Shopping Cart & Checkout
-<img src="assets/images/cart_checkout.png" alt="Shopping Cart" width="600"/>
+###  Dashboard
+<img src="src/img/dashboard.jpeg" alt="Dashboard" width="600"/>
 
-### 🏪 Restaurant Management Panel
-<img src="assets/images/restaurant_panel.png" alt="Restaurant Dashboard" width="600"/>
-
-### 🛵 Delivery Personnel Interface
-<img src="assets/images/delivery_dashboard.png" alt="Delivery Dashboard" width="600"/>
-
-> 📸 All interfaces are mobile-responsive and built with Material UI components.
+###  Delivery Personnel Interface
+<img src="src/img/order_processing.png" alt="Delivery Processing" width="600"/>
 
 ## 📚 References
 - [How COVID-19 Popularized Food Delivery in HK](https://www.eats365pos.com/hk/en/blog/post/how-covid-19-popularized-food-delivery-in-hong-kong-263)
