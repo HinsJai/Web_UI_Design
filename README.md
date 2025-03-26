@@ -56,8 +56,27 @@
 - **Backend**: Node.js / Express / Firebase (depending on branch)
 - **Other Tools**: Google Maps API, responsive CSS Grid
 
-## 📷 Screenshots / UI Mockups
-> 
+## 🖼️ UI Showcase
+
+Here are some screenshots demonstrating the Yummy Restaurant System's interfaces:
+
+### 🔍 Home Page & Menu Browsing
+<img src="assets/images/home_menu.png" alt="Home and Menu" width="600"/>
+
+### 🍱 Food Item & Customization
+<img src="assets/images/food_item_popup.png" alt="Food Item Details Popup" width="600"/>
+
+### 🛒 Shopping Cart & Checkout
+<img src="assets/images/cart_checkout.png" alt="Shopping Cart" width="600"/>
+
+### 🏪 Restaurant Management Panel
+<img src="assets/images/restaurant_panel.png" alt="Restaurant Dashboard" width="600"/>
+
+### 🛵 Delivery Personnel Interface
+<img src="assets/images/delivery_dashboard.png" alt="Delivery Dashboard" width="600"/>
+
+> 📸 All interfaces are mobile-responsive and built with Material UI components.
+
 ## 📚 References
 - [How COVID-19 Popularized Food Delivery in HK](https://www.eats365pos.com/hk/en/blog/post/how-covid-19-popularized-food-delivery-in-hong-kong-263)
 - [Material UI Docs](https://mui.com/)
