@@ -64,10 +64,10 @@ Here are some screenshots demonstrating the Yummy Restaurant System's interfaces
 <img src="src/img/login.jpeg" alt="Login" width="600"/>
 
 ###  Food Item
-<img src="src/img/menu.jpeg" alt="Menu" width="600"/>
+<img src="src/img/menu.png" alt="Menu" width="600"/>
 
 ###  Dashboard
-<img src="src/img/dashboard.jpeg" alt="Dashboard" width="600"/>
+<img src="src/img/dashboard.png" alt="Dashboard" width="600"/>
 
 ###  Delivery Personnel Interface
 <img src="src/img/order_processing.png" alt="Delivery Processing" width="600"/>
