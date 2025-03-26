@@ -56,7 +56,7 @@
 - **Backend**: Node.js / Express / Firebase (depending on branch)
 - **Other Tools**: Google Maps API, responsive CSS Grid
 
-## 🖼️ UI Showcase
+## 🖼️ UI Showcase - Partial
 
 Here are some screenshots demonstrating the Yummy Restaurant System's interfaces:
 
