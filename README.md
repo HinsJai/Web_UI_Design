@@ -61,7 +61,7 @@
 Here are some screenshots demonstrating the Yummy Restaurant System's interfaces:
 
 ### 🔍 Home Page & Menu Browsing
-<img src="assets/images/home_menu.png" alt="Home and Menu" width="600"/>
+<img src="src/img/login.jpeg" alt="Login" width="600"/>
 
 ### 🍱 Food Item & Customization
 <img src="assets/images/food_item_popup.png" alt="Food Item Details Popup" width="600"/>
