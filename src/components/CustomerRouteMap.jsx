@@ -31,7 +31,7 @@ const libraries = ["places"];
 const CustomerRouteMap = () => {
   //   const navigate = useNavigate();
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyBKommW2kllsVBuoh7Yd53jglvlgTymTv8",
+    googleMapsApiKey: "",
     libraries,
   });
 
